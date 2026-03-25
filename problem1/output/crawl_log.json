@@ -1,0 +1,21 @@
+{
+  "seeds": [
+    "https://iitj.ac.in/PageImages/Gallery/07-2025/Regulation_PG_2022-onwards_20022023.pdf",
+    "https://iitj.ac.in/PageImages/Gallery/07-2025/CSE-Courses-Details.pdf",
+    "https://www.iitj.ac.in/",
+    "https://www.iitj.ac.in/m/Index/main-institute?lg=en",
+    "https://www.iitj.ac.in/office-of-director/en/office-of-director",
+    "https://www.iitj.ac.in/Bachelor-of-Technology/en/Bachelor-of-Technology",
+    "https://www.iitj.ac.in/aiot-fab-facility/en/aiot-fab-facility",
+    "https://www.iitj.ac.in/health-center/en/health-center",
+    "https://www.iitj.ac.in/office-of-research-development/en/office-of-research-and-development",
+    "https://www.iitj.ac.in/computer-science-engineering",
+    "https://www.iitj.ac.in/computer-science-engineering/en/faculty-achievements"
+  ],
+  "html_pages_fetched": 64,
+  "pdf_urls_seen": 90,
+  "pdf_files_saved": 90,
+  "errors": [
+    "html https://spc.iitj.ac.in/: HTTPSConnectionPool(host='spc.iitj.ac.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
+  ]
+}

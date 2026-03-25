@@ -1,0 +1,12 @@
+{
+  "model_kind": "blstm",
+  "trainable_params": 207644,
+  "vocab_size": 28,
+  "embed_dim": 64,
+  "hidden_dim": 128,
+  "num_layers": 1,
+  "learning_rate": 0.02,
+  "epochs": 40,
+  "batch_size": 32,
+  "num_train_names": 1000
+}

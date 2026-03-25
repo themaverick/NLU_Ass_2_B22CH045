@@ -1,0 +1,10 @@
+: morphology
+student students course courses
+program programs degree degrees
+faculty faculties department departments
+
+: academic-relations
+research development science engineering
+undergraduate graduate bachelor master
+thesis dissertation seminar workshop
+lecture laboratory theory practice

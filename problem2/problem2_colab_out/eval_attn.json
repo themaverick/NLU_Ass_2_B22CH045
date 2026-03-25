@@ -1,0 +1,7 @@
+{
+  "novelty_rate": 0.896,
+  "diversity": 0.882,
+  "n": 500,
+  "unique": 441,
+  "model": "attn"
+}
