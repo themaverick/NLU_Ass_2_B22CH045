@@ -11,3 +11,19 @@ __pycache__/
 .idea/
 .vscode/
 *.log
+
+# Repo tracks only problem1/ and problem2/ — no Colab, root bundle, or written reports
+/colab/
+/output/
+/report.pdf
+/PA-2.pdf
+/B22CH045-A2.zip
+/pyproject.toml
+/uv.lock
+/domain_analogies.txt
+/task1.py
+/task2.py
+/task3_4.py
+
+# Markdown reports under problem1 output (submit separately)
+/problem1/output/*.md
