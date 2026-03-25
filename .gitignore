@@ -27,3 +27,6 @@ __pycache__/
 
 # Markdown reports under problem1 output (submit separately)
 /problem1/output/*.md
+
+# Crawled IITJ PDFs (re-fetch via build_corpus / crawl; not stored in git)
+/problem1/data/pdfs/*.pdf
